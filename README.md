@@ -1,10 +1,6 @@
 # 📙 노션(Notion) 클론 프로젝트(패스트캠퍼스 박영웅강사님 Vue 수업)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5ef74e2a-1966-4fe9-ab52-b3f43beb2e10/deploy-status)](https://app.netlify.com/sites/charming-moonbeam-67283c/deploys)
-
-[DEMO](https://charming-moonbeam-67283c.netlify.app/)
-
-### 필수 요구사항
+### 학습사항
 
 워크스페이스는 부모-자식 관계를 만들 수 있습니다.
 
